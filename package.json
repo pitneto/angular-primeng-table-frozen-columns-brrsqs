@@ -9,7 +9,7 @@
     "zone.js": "0.8.20",
     "@types/node": "6.0.101",
     "font-awesome": "4.7.0",
-    "@angular/core": "5.2.5",
+    "@angular/core": "10.2.5",
     "@angular/http": "5.2.5",
     "@angular/forms": "5.2.5",
     "@types/jasmine": "2.5.54",
